@@ -6,8 +6,9 @@ Shared scripts and documentation hub for the solution template monorepo.
 SolutionTemplateWorkspace/
 ├── backend-01/          # Spring Boot REST API  →  https://github.com/parus17/st-backend-01
 ├── gateway/             # Spring Boot API gateway  →  https://github.com/parus17/st-gateway
-└── workspace/           # This repo — shared scripts, docs, and frontend (not yet populated)
-    └── scripts/azure/   # Shared Azure setup scripts
+├── frontend/            # Angular 21 frontend  →  https://github.com/parus17/st-frontend
+└── workspace/           # This repo — shared scripts and docs
+    └── scripts/azure/   # Shared Azure setup scripts (Container Apps services)
 ```
 
 ## Services
@@ -16,6 +17,7 @@ SolutionTemplateWorkspace/
 |---|---|---|
 | backend-01 | [parus17/st-backend-01](https://github.com/parus17/st-backend-01) | Spring Boot 4.0.6 REST API |
 | gateway | [parus17/st-gateway](https://github.com/parus17/st-gateway) | Spring Boot 4.0.6 API gateway |
+| frontend | [parus17/st-frontend](https://github.com/parus17/st-frontend) | Angular 21 + Tailwind CSS, Azure Static Web Apps |
 
 ---
 
