@@ -32,7 +32,7 @@ SECRET_DISPLAY_NAME="ci-secret"
 # Extend this list when adding environments.
 REDIRECT_URIS=(
     "http://localhost:8080/login/oauth2/code/azure"
-    "https://gateway.braveground-e6fcabac.westeurope.azurecontainerapps.io/api/login/oauth2/code/azure"
+    "https://delightful-moss-0624fd903.7.azurestaticapps.net/api/login/oauth2/code/azure"
 )
 
 # ── [1/7] Resolve account ──────────────────────────────────────────────────────
