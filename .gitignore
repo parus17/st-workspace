@@ -30,3 +30,8 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### Local secrets ###
+scripts/.env.local
+scripts/backend-01.log
+scripts/gateway.log
